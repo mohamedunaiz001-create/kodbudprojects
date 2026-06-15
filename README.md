@@ -308,11 +308,11 @@ python ml_task8_diabetes.py
 
 This internship provided practical experience in building complete machine learning solutions from data preparation to model deployment-ready evaluation. The projects demonstrate the ability to solve real-world business and analytical problems using machine learning techniques and industry-standard Python libraries.
 
-**Intern:Mohamed Unaiz A
+Intern:Mohamed Unaiz A
 
-**Organization:Kodbud Technologies
+Organization:Kodbud Technologies
 
-**Domain:Machine Learning Internship
+Domain:Machine Learning Internship
 
-**Tasks Completed:1, 4, 6, 7, 8
+Tasks Completed:1, 4, 6, 7, 8
 
