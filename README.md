@@ -18,7 +18,7 @@ Five ML tasks were completed successfully using Python and Scikit-Learn.
 
 ---
 
-##Technologies Used
+## Technologies Used
 
 * Python 3.10+
 * NumPy
@@ -29,7 +29,7 @@ Five ML tasks were completed successfully using Python and Scikit-Learn.
 
 ---
 
-##Internship Learning Objectives
+## Internship Learning Objectives
 
 During this internship, the following concepts were implemented and understood:
 
