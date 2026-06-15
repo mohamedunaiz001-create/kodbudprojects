@@ -313,4 +313,3 @@ This internship provided practical experience in building complete machine learn
 **Domain:** Machine Learning Internship
 **Tasks Completed:** 1, 4, 6, 7, 8
 
-This version looks professional for recruiters, GitHub visitors, LinkedIn, and internship evaluators.
